@@ -1,0 +1,19 @@
+{
+  "name": "flatten_array",
+  "version": "1.0.0",
+  "description": "flatten array in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodejs",
+    "unit"
+  ],
+  "author": "Md. Zahirul Haque",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
